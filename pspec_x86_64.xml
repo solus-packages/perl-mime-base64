@@ -20,17 +20,17 @@
 </Description>
         <PartOf>programming.perl</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.36/x86_64-linux-thread-multi/MIME/Base64.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.36/x86_64-linux-thread-multi/MIME/QuotedPrint.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.36/x86_64-linux-thread-multi/auto/MIME/Base64/.packlist</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.36/x86_64-linux-thread-multi/auto/MIME/Base64/Base64.so</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.38/x86_64-linux-thread-multi/MIME/Base64.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.38/x86_64-linux-thread-multi/MIME/QuotedPrint.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.38/x86_64-linux-thread-multi/auto/MIME/Base64/.packlist</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.38/x86_64-linux-thread-multi/auto/MIME/Base64/Base64.so</Path>
             <Path fileType="man">/usr/share/man/man3/MIME::Base64.3</Path>
             <Path fileType="man">/usr/share/man/man3/MIME::QuotedPrint.3</Path>
         </Files>
     </Package>
     <History>
-        <Update release="11">
-            <Date>2022-09-25</Date>
+        <Update release="12">
+            <Date>2023-07-24</Date>
             <Version>3.16</Version>
             <Comment>Packaging update</Comment>
             <Name>Algent Albrahimi</Name>
